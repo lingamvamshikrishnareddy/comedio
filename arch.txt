@@ -1,0 +1,56 @@
+Comedio/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Navbar.js
+│   │   │   ├── PostCard.js
+│   │   │   ├── MusicPlayer.js
+│   │   │   ├── PlaylistCard.js
+│   │   ├── pages/
+│   │   │   ├── Home.js
+│   │   │   ├── Profile.js
+│   │   │   ├── Explore.js
+│   │   │   ├── MusicLibrary.js
+│   │   ├── assets/
+│   │   ├── styles/
+│   │   │   ├── global.css
+│   │   ├── utils/
+│   │   │   ├── helpers.js
+│   │   ├── services/
+│   │   │   ├── api.js
+│   │   ├── index.js
+│   │   ├── App.js
+│   ├── package.json
+├── backend/
+│   ├── routes/
+│   │   ├── posts.js
+│   │   ├── users.js
+│   │   ├── music.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Post.js
+│   │   ├── Music.js
+│   ├── controllers/
+│   │   ├── postController.js
+│   │   ├── userController.js
+│   │   ├── musicController.js
+│   ├── config/
+│   │   ├── database.js
+│   ├── services/
+│   │   ├── musicService.js
+│   ├── middlewares/
+│   │   ├── authMiddleware.js
+│   ├── index.js
+│   ├── package.json
+├── music/
+│   ├── playlists.json
+│   ├── songs.json
+├── database/
+│   ├── seed.js
+├── assets/
+│   ├── logo.png
+│   ├── favicon.ico
+│   ├── defaultPlaylistCover.jpg
+├── .env
+├── README.md
+├── .gitignore

@@ -1,0 +1,30 @@
+[
+    {
+      "id": "101",
+      "title": "Song A",
+      "artist": "Artist A",
+      "album": "Album A",
+      "genre": "Pop",
+      "duration": "3:45",
+      "filePath": "music/SongA.mp3"
+    },
+    {
+      "id": "102",
+      "title": "Song B",
+      "artist": "Artist B",
+      "album": "Album B",
+      "genre": "Rock",
+      "duration": "4:12",
+      "filePath": "music/SongB.mp3"
+    },
+    {
+      "id": "103",
+      "title": "Song C",
+      "artist": "Artist C",
+      "album": "Album C",
+      "genre": "Jazz",
+      "duration": "5:08",
+      "filePath": "music/SongC.mp3"
+    }
+  ]
+  

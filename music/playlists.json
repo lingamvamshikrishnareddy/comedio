@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "name": "Chill Vibes",
+      "description": "Relaxing and soothing tracks",
+      "coverImage": "assets/defaultPlaylistCover.jpg",
+      "songs": ["101", "102", "103"]
+    },
+    {
+      "id": "2",
+      "name": "Workout Mix",
+      "description": "High-energy tracks to boost your workout",
+      "coverImage": "assets/defaultPlaylistCover.jpg",
+      "songs": ["104", "105", "106"]
+    }
+  ]
+  
